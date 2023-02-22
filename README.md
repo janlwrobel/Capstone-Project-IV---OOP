@@ -1,4 +1,4 @@
-# Capstone-Project-IV---OOP
+# Capstone-Project-IV-OOP
 ## Object-Oriented Programming
 
 The **'inventory.py'** programme will read data from the **'inventory.txt'** file and perform the following actions on it:
